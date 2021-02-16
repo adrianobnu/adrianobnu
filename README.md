@@ -1,16 +1,55 @@
-### Hi there 👋
+<h1 align='center'>I'm Adriano 👨‍💻</h1>
 
-<!--
-**adrianobnu/adrianobnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  A <i>Brazilian</i> 🇧🇷 Senior Full Stack Web Developer who lives in <i><b>Porto - Portugal</b> 🇵🇹</i>
+</p>
 
-Here are some ideas to get you started:
+<p>
+<img width="100%" alt="Working Hard" src="https://raw.githubusercontent.com/adrianobnu/adrianobnu/main/working.gif" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="https://www.linkedin.com/in/adrianojr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adriano.santos.junior@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=351966696946"><img src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<h4 align='center'>My Quick Resume</h4>
+
+- Currently working at [bolttech](https://www.bolttech.io/), responsible for the payment processing service for all group companies around the world.
+- And working as freelancer at [Manejebem](https://www.linkedin.com/company/manejebem/), a startup accelerated by [Facebook](https://revistagloborural.globo.com/Noticias/Agtech/noticia/2020/11/facebook-anuncia-10-startups-do-agronegocio-no-brasil-para-programa-de-aceleracao.html) .
+- Recently, I have been working with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/) and [NestJS](https://nestjs.com/).
+- I speak portuguese, spanish and english.
+
+<h4 align='center'>Some Curiosities About Me</h4>
+
+- 😍 I'm always in love with PHP
+- 🥁 I learned to play drums by myself
+- 👩‍❤️‍💋‍👨 Husband since 2017 to the world's greatest wife (<i>Manoela</i>)
+- 🇵🇹 I leave Brazil in 2019 to live in Portugal
+- 📚 I graduated from my bachelor's degree in 2015
+- 🌎 I want and I will live in many countries
+- 👨‍💻 Working remotely since 2017
+
+<h4 align='center'>Technologies I've worked with</h4>
+<p align='center'><i>"And nothing stops me from learning more and more"</i></p>
+<p align='center'>
+  <img src="https://img.shields.io/badge/html%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/golang-7fd5ea.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/php-4F5B93.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/vue.js-4fc08d.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mongodb-13aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mysql-0074a3.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/redis-D82C20.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/docker-0073ec.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align='center'>💬 <i>Sometimes I also write at...</i></p>
+<p align='center'>
+  <a href="https://medium.com/@adrianosantosjunior"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<img height="50" alt="Thank you for visiting my github, and be sure to get in touch! It will be a pleasure to meet new people!" width="100%" src="https://raw.githubusercontent.com/adrianobnu/adrianobnu/main/marquee.svg" />
