@@ -52,7 +52,5 @@
 
 <p align='center'>💬 <i>Sometimes I also write at...</i></p>
 <p align='center'>
-  <a href="https://medium.com/@adrianosantosjunior"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@adrianosantosjunior"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-<img height="50" alt="Thank you for visiting my github, and be sure to get in touch! It will be a pleasure to meet new people!" width="100%" src="https://raw.githubusercontent.com/adrianobnu/adrianobnu/main/marquee.svg" />
