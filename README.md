@@ -4,8 +4,9 @@
   A <i>Brazilian</i> 🇧🇷 Senior Full Stack Web Developer who lives in <i><b>Porto - Portugal</b> 🇵🇹</i>
 </p>
 
-<p>
-<img width="100%" alt="Working Hard" src="https://raw.githubusercontent.com/adrianobnu/adrianobnu/main/working.gif" />
+<p align='center'>
+<a href="https://www.youtube.com/watch?v=rS4dvLZsMhY" target="_blank"><img width="100%" alt="Intro" src="https://raw.githubusercontent.com/adrianobnu/adrianobnu/main/adriano-intro-youtube.png" /></a>
+<small>Click on image to play the video...</small>
 </p>
 
 <p align='center'>
