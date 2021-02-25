@@ -54,3 +54,13 @@
 <p align='center'>
   <a href="https://medium.com/@adrianosantosjunior"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+<hr/>
+
+<p>
+  <a href="https://opencollective.com/adrianobnu">
+<img align="left" width="250" src="https://open-collective-user-badge.vercel.app/api/image?collectives=nest%3Btypeorm%3Bvuejs%3Bnestjsx&user=adrianobnu&type=users" /></a>
+  I contribute to the development community financially and validating pull requests in several projects.
+  <br /><br />
+  I created a project that generates this badge for contributions from a user on opencollective.com. If you want to use and contribute, <a href="https://github.com/adrianobnu/open-collective-user-badge">access the repository</a>.
+</p>
