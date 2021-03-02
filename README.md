@@ -20,7 +20,7 @@
 - Since 2009 I work 100% with web development.
 - 12 years of development and business experience.
 - Currently working at [bolttech](https://www.bolttech.io/), responsible for the payment processing service for all group companies around the world.
-- And working as freelancer at [Manejebem](https://www.linkedin.com/company/manejebem/), a startup accelerated by [Facebook](https://revistagloborural.globo.com/Noticias/Agtech/noticia/2020/11/facebook-anuncia-10-startups-do-agronegocio-no-brasil-para-programa-de-aceleracao.html) .
+- And working as freelancer at [Manejebem](https://www.linkedin.com/company/manejebem/), a startup accelerated by [Facebook](https://revistagloborural.globo.com/Noticias/Agtech/noticia/2020/11/facebook-anuncia-10-startups-do-agronegocio-no-brasil-para-programa-de-aceleracao.html) and at [Beon](https://www.beon.com.br/), a startup focused on personalizing content to increase conversions, engagement and user retention on ecommerce platforms.
 - Recently, I have been working with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/) and [NestJS](https://nestjs.com/).
 - I speak portuguese, spanish and english.
 
