@@ -19,17 +19,17 @@
 
 - Since 2009 I work 100% with web development.
 - 12 years of development and business experience.
-- Currently working with PHP and Laravel at [Tinkerlist.tv](https://tinkerlist.tv/), a Belgian company specializing in services for the production of television content.
-- And working as freelancer at [Manejebem](https://www.linkedin.com/company/manejebem/), a startup accelerated by [Facebook](https://revistagloborural.globo.com/Noticias/Agtech/noticia/2020/11/facebook-anuncia-10-startups-do-agronegocio-no-brasil-para-programa-de-aceleracao.html).
-- Recently, I have been working with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/) and [NestJS](https://nestjs.com/).
-- I speak portuguese, spanish and english.
+- Working with DevOps using [Serverless Framework](https://www.serverless.com/) and [Pulumi](https://www.pulumi.com/).
+- Currently working at [Tinkerlist.tv](https://tinkerlist.tv/), a Belgian company specializing in services for the production of television content.
+- Recently, I have been working with [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/) and [NestJS](https://nestjs.com/).
+- I speak portuguese and english.
 
 <h4 align='center'>Some Curiosities About Me</h4>
 
 - 😍 I'm always in love with PHP
 - 🥁 I learned to play drums by myself
 - 👩‍❤️‍💋‍👨 Husband since 2017 to the world's greatest wife (<i>Manoela</i>)
-- 🇵🇹 I leave Brazil in 2019 to live in Portugal
+- 🇵🇹 I leave Brazil in 2020 to live in Portugal
 - 📚 I graduated from my bachelor's degree in 2015
 - 🌎 I want and I will live in many countries
 - 👨‍💻 Working remotely since 2017
@@ -48,19 +48,4 @@
 <img src="https://img.shields.io/badge/mysql-0074a3.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/redis-D82C20.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/docker-0073ec.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align='center'>💬 <i>Sometimes I also write at...</i></p>
-<p align='center'>
-  <a href="https://medium.com/@adrianosantosjunior"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-<hr/>
-
-<p>
-  <a href="https://opencollective.com/adrianobnu">
-<img align="left" width="250" src="https://open-collective-user-badge.vercel.app/api/image?collectives=nest%3Btypeorm%3Bvuejs%3Bnestjsx&user=adrianobnu&type=users" /></a>
-  I contribute to the development community financially and validating pull requests in several projects.
-  <br /><br />
-  I created a project that generates this badge for contributions from a user on opencollective.com. If you want to use and contribute, <a href="https://github.com/adrianobnu/open-collective-user-badge">access the repository</a>.
 </p>
