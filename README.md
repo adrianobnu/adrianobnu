@@ -1,7 +1,7 @@
 <h1 align='center'>I'm Adriano 👨‍💻</h1>
 
 <p align='center'>
-  A <i>Brazilian</i> 🇧🇷 Senior Full Stack Web Engineer who lives in <i><b>Porto - Portugal</b> 🇵🇹</i>
+  A <i>Brazilian</i> Senior Full Stack Web Engineer and DevOps who lives in <i><b>Porto - Portugal</b> 🇵🇹</i>
 </p>
 
 <p align='center'>
