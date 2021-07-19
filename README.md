@@ -49,3 +49,5 @@
 <img src="https://img.shields.io/badge/redis-D82C20.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/docker-0073ec.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
+
+<a target="_blank" href="https://www.zaask.pt/user/adrianosantosjunior"><img src="https://www.zaask.pt/widget?user=583297&widget=pro-findme" alt="" /></a>
