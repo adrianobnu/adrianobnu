@@ -5,11 +5,6 @@
 </p>
 
 <p align='center'>
-<a href="https://www.youtube.com/watch?v=QSEKbwwmQbE" target="_blank"><img width="100%" alt="Intro" src="https://raw.githubusercontent.com/adrianobnu/adrianobnu/main/adriano-intro-youtube-v2.png" /></a>
-<small>Click on image to play the video...</small>
-</p>
-
-<p align='center'>
   <a href="https://www.linkedin.com/in/adrianojr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:adriano.santos.junior@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </p>
@@ -17,7 +12,7 @@
 <h4 align='center'>My Quick Resume</h4>
 
 - Since 2009 I work 100% with web development.
-- 12 years of development and business experience.
+- 13 years of development and business experience.
 - Working with DevOps using [Serverless Framework](https://www.serverless.com/) and [Pulumi](https://www.pulumi.com/).
 - Currently working at [Tinkerlist.tv](https://tinkerlist.tv/), a Belgian company specializing in services for the production of television content.
 - Recently, I have been working with [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/) and [NestJS](https://nestjs.com/).
