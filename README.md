@@ -1,7 +1,7 @@
 <h1 align='center'>I'm Adriano 👨‍💻</h1>
 
 <h3 align='center'>
-  A <i>Brazilian</i> Senior Laravel Developer
+  A <i>Brazilian</i> Senior PHP Laravel Developer
 </h3>
 
 13 years of experience with full stack web development working in the most diverse projects of small, medium and large sizes in Brazil, USA, Europe and Asia.
