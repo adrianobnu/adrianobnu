@@ -12,7 +12,7 @@ I started my career with PHP (in 2009) and in 2015 I started to adopt the <a hre
 
 I'm passionate about performing upgrades, mapping improvements, solving performance issues, rewriting codes and creating POC's (Prove of Concepts) to test new approaches, in addition to assiduously following the releases of <a href='https://laravel.com/'>Laravel ecosystem</a> products and new versions of <a href='https://www.php.net/'>PHP</a>.
 
-I'm Brazilian and I've been living in Portugal since 2020. I'm also an enthusiast of remote work, as I've been working this way since 2017.
+I'm Brazilian and a digital nomad with my wife and daughter. I'm also an enthusiast of remote work, as I've been working this way since 2017.
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/adrianojr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
