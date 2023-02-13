@@ -1,7 +1,7 @@
 <h1 align='center'>I'm Adriano 👨‍💻</h1>
 
 <h3 align='center'>
-  A <i>Brazilian</i> Senior PHP Laravel Developer
+  Senior Full Stack Developer
 </h3>
 
 With 14 years of experience in full stack web development, I have honed my skills working on a wide range of projects of varying sizes across multiple countries including Brazil, USA, Europe and Asia. As a Laravel developer at <a href="https://tinkerlist.tv/">Tinkerlist</a>, a software company for television production, and development manager at <a href="https://tinkerlist.tv/">Rework IT</a>, an on-demand software development company, I bring a wealth of experience to each project I take on.
