@@ -17,3 +17,9 @@ Skills
 - Databases: MySQL, Postgres, MongoDB, Aurora DB, Redis
 - Technologies: Docker, Kubernetes, Laravel, NestJS, NextJS, Vue, React, Pusher, Meilisearch
 - Cloud: AWS, Google Cloud, Digital Ocean
+
+<a href='https://drive.google.com/file/d/1UKDV0QT6qkA980Yow0QJJS9mgvMEZQoh/view?usp=drive_link'>Full Resume</a>
+
+<a href='https://www.linkedin.com/in/adrianojr'>LinkedIn</a>
+
+<a href='https://twitter.com/adrianobnupt'>Twitter</a>
