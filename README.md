@@ -1,4 +1,4 @@
-**Senior Software Engineer, CTO, Team Leader and Entrepreneur since 2009**
+**Senior Software Engineer, CTO, Team Leader, and Entrepreneur with 15+ years of experience driving innovation and growth since 2009.**
 
 With over 15 years of experience as a Full Stack Developer, I’ve built a career defined by a passion for creating impactful, high-performance digital solutions. Originally from Brazil, I began working in tech in 2009 and have since transitioned to life as a digital nomad, blending my work with travel across Latin America and Europe. Living and working in countries like Argentina, Portugal, Belgium, and Spain has given me a unique perspective on global markets, user needs, and the nuances of international collaboration.
 
