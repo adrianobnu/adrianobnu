@@ -1,27 +1,7 @@
-**Senior Software Engineer | Web & AI | 16+ yrs | 150+ projects**
+**Senior Software Engineer with 16 years of experience. I build MVPs, fix performance issues, and implement practical AI.**
 
-I’m **Adriano Junior**, a senior software engineer and digital nomad with **16+ years** building fast, reliable web apps and practical AI features for teams across **15+ countries**. I combine product thinking with hands-on engineering so things ship quickly—and stay solid in production.
+I’ve spent the last 16 years building software and solving technical problems for over 250 different projects. My approach is pretty straightforward: I focus on building things that work, shipping them on time, and making sure they are easy to maintain. I’m not big on buzzwords or hype; I just enjoy the craft of engineering and helping people turn their ideas into stable products.
 
-## What I’m great at
-- **MVPs in weeks:** From concept to live product with clean architecture, strong tests, and a smooth dev onboarding.
-- **Performance that matters:** API refactors and caching/DB tuning that have delivered **~80% latency reductions** (e.g., ~3s → ~300ms).
-- **Complex integrations:** **40+ payment flows** (processors, banks, wallets), third-party APIs, and event-driven microservices.
-- **Leadership that ships:** Roadmaps, code reviews, delivery rituals, and mentoring—without slowing down execution.
-- **Practical AI:** User-visible features (explanations, summarization, assistants) using OpenAI/Claude that actually move KPIs.
+Most of my day-to-day work involves taking a founder's vision and getting a production-ready MVP live in a matter of weeks, or diving into legacy systems to fix bottlenecks and make them feel snappy again. I also spend a lot of time integrating AI into products, but only in ways that actually make sense for the user, like simplifying tasks or automating repetitive work.
 
-## What I build
-- **Websites & Webapps** that are fast, secure, and maintainable  
-- **APIs & Microservices** with clear contracts, metrics, and observability  
-- **AI features** that enhance UX and reduce support load  
-- **Cloud & DevOps** on **AWS** with **Docker/Kubernetes**, CI/CD, and IaC
-
-## Toolbox
-PHP, JavaScript/TypeScript, Node.js • React, Vue, Next.js, Laravel, NestJS  
-MySQL, PostgreSQL, MongoDB, Redis • AWS, Docker, Kubernetes  
-OpenAI, Claude • GitHub/GitLab/Bitbucket • Jira/Linear
-
-## By the numbers
-**16+ years** • **150+ projects** • **15+ countries** • **40+ integrations** • **APIs ~80% faster**
-
-## Let’s talk
-Ready to collaborate? **Visit [adriano-junior.com](https://adriano-junior.com)** or **email [talk@adriano-junior.com](mailto:talk@adriano-junior.com)**.
+I work as a solo freelancer because I prefer a direct connection with the people I’m building for. When you work with me, you’re getting 16 years of hands-on experience without the layers of project managers or unnecessary meetings. If you’re looking for someone to help with a launch or to clean up a complex system, you can see my work and get in touch through my website at [adriano-junior.com](https://adriano-junior.com).
