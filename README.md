@@ -1,5 +1,3 @@
-**Senior Software Engineer with 16 years of experience. I build MVPs, fix performance issues, and implement practical AI.**
-
 I’ve spent the last 16 years building software and solving technical problems for over 250 different projects. My approach is pretty straightforward: I focus on building things that work, shipping them on time, and making sure they are easy to maintain. I’m not big on buzzwords or hype; I just enjoy the craft of engineering and helping people turn their ideas into stable products.
 
 Most of my day-to-day work involves taking a founder's vision and getting a production-ready MVP live in a matter of weeks, or diving into legacy systems to fix bottlenecks and make them feel snappy again. I also spend a lot of time integrating AI into products, but only in ways that actually make sense for the user, like simplifying tasks or automating repetitive work.
